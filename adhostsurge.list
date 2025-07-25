@@ -1602,7 +1602,7 @@ DOMAIN-SUFFIX,ad.weatherbug.com
 DOMAIN-SUFFIX,ad.webdice.jp
 DOMAIN-SUFFIX,ad.webnext.ru
 DOMAIN-SUFFIX,ad.weibo.com
-DOMAIN-SUFFIX,ad.weixin.qq.com
+DOMAIN-SUFFIX,ad..qq.com
 DOMAIN-SUFFIX,ad.weplayer.cc
 DOMAIN-SUFFIX,ad.where.com
 DOMAIN-SUFFIX,ad.wingads.com
@@ -10580,9 +10580,6 @@ DOMAIN-SUFFIX,dns.jd.com
 DOMAIN-SUFFIX,dns.m.sm.cn
 DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
 DOMAIN-SUFFIX,dns.titannetwork.cn
-DOMAIN-SUFFIX,dns.weixin.qq.cn
-DOMAIN-SUFFIX,dns.weixin.qq.com
-DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,dns.ximalaya.com
 DOMAIN-SUFFIX,dns1.titannetwork.cn
 DOMAIN-SUFFIX,dns2.titannetwork.cn
