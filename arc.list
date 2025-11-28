@@ -1,0 +1,10 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,arc.net
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,diabrowser
+DOMAIN-KEYWORD,arc
