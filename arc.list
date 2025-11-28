@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,segment.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,diabrowser
